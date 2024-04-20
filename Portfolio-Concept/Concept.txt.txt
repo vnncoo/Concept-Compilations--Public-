@@ -1,0 +1,24 @@
+The idea is to make a Portfolio including FAANG concepts and designs in their products.
+
+For Facebook:
+I will make the main interface using the design of Instagram
+Instagram looks better than Facebooks design (for me).
+
+For Amazon:
+I will make an API connect from twitter that gets the ratings of the user through twitter comments
+I will then forward the data to the website and design the ratings like Amazon ratings (somehow).
+
+For Apple:
+I will make a settings that looks like the nav-bar of the iPhone.
+A transparent navbar that has blur and such.
+
+For Netflix:
+For the Projects part, I will make a netflix type information slider
+Will also design it to show texts when hovered by.
+
+For Google:
+I will design a loading animation in the beginning
+The loading will basically go like I was typing my name on google then transition to the Main interface.
+
+//A lot of things still needs fixing so.
+//It's December now I couldn't finish the work

@@ -1,0 +1,51 @@
+The Idea is to make an App/Site for Baranggays and Municipalities to further digitalize most of their processes
+
+This will probably my Capstone project. I am and will be looking for people to participate in this project with me.
+
+The functions I'm planning to implement:
+
+0 (REGISTRATION)
+  0.1) -This is ofcourse a given, to avoid fake Scheduling and increase security in the app.
+       0-1 (Users) will be required to choose their Municipality so that they get the correct information they need in the app
+
+       0-2 (Admin) will have access to most features such as the Announcements Postings and many more.
+
+1) Scheduling (Today, 03/26/2024) I went to the local Brgy. hall and I had to fill up a form to continue,
+   I was alone at the time but if there was lots of people getting the same document, the queue would've been disastrous. 
+   This further increases the point of my project as we can completely remove that possibility by implementing the scheduling system.
+
+   Another possible issue is if the specific Brgy. personnel isn't in the hall, you might have to wait, or worse if he/she is absent for the day
+   Which gives me an idea, to make something that will inform possible visitors if the specific person they're looking for is in the Brgy. Hall.
+
+   1.1) -I'm thinking of a function that allows users to check available dates for geting certain papers.
+         They will be able to schedule their visit depending on the vacant time and slot for the specific date.
+
+   1.2) - Possible issues)
+       -If the 1.1 was to be implemented, it might cause problems because if we are to implement that function,
+        we'll have to determine how to get the vacant time. It will require lots of data and it can fluctuate.
+        Choosing it might lead to inaccuracy.
+      
+   1.3) -I'm thinking we can just put the amount of people that scheduled for a specific task in a specific date.
+         This will allow the people planning to schedule to see whether the date they chose is already flooded or not.
+
+2) Announcements
+   2.1) -I'm thinking of a function that gives announcements to a user based on their Municipality.
+         Basically a function where users can get relevant news/updates/announcements about the areas that they selected
+
+3) Customer Support
+   3.1) -Customer support
+         To be considered cause it could be costly (don't know much about the possible costs of doing that)
+
+4) Postings
+   4.1) -Job posting
+         Available job openings based on the specific municipality of the user.
+   4.2) -Lost and Found
+         Informations about the lost items should be provided by the one who lost the item,
+         contact number, possible reward and all details needed will be posted for the public to know.
+   4.3) -Meetings/Gatherings
+         Posts about meetings will be posted on postings but also highlighted in the Schedule
+   4.4) -Reminders
+         Regulation reminders for events like fireworks regulation for New-Years eve and events where reminders are necessary.
+         Reminders when there are calamities such as earthquakes, storms, tsunamis and many more.
+   // More to be added
+   // This concept is gonna be remade, I want to remake it to an app concept.
